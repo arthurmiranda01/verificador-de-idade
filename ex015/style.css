@@ -9,6 +9,10 @@ header {
     text-align: center;
 }
 
+img {
+    padding-right: 40px
+}
+
 section {
     background-color:white;
     border-radius: 5px;
